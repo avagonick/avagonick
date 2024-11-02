@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi  👋 I'm Ava Gonick!
+### 🎓 Senior at the University of California, Los Angeles stuyding Computational Biology and Data Science 
+### 💻 Aspring Computer Scientist with experience in Machine Learning and Software Development
 
+I love tackling real world problems with software to improve lives! With skills in Python, C++, Machine Learning, Data Management, and Web Development I love using my technical expertise to help people in meaningful ways. I also value continuous learning and believe that by constantly expanding my skill set, I can create innovative solutions that make a positive impact.
+
+
+From automating the quality control of clinical trial data for Neurocrine Biosciences, maintaining the website of Crafting for Cancer an organization that donates beanies to cancer patients, and my current role as an AI Studio Intern for DirecTV where I am, building a machine learning algorithm which analyzes yelp reviews in to give restaurants improvement suggestions, I strive to use technology for positive change. 
+
+I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 <!--
 **avagonick/avagonick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
