@@ -1,5 +1,5 @@
 ## Hi  👋 I'm Ava Gonick!
-### 🎓 Fourth year at the University of California, Los Angeles stuyding Computational Biology and Data Science 
+### 🎓 1st year Master's Student at the University of California, San Diego studying computer science 
 ### 💻 Aspring Computer Scientist with experience in Machine Learning and Software Development
 
 I love tackling real world problems with software to improve lives! With skills in Python, C++, Machine Learning, Data Management, and Web Development I love using my technical expertise to help people in meaningful ways. I also value continuous learning and believe that by constantly expanding my skill set, I can create innovative solutions that make a positive impact.
